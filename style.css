@@ -1,0 +1,29 @@
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.jumbotron p {
+    padding-right: 40%;
+}
+
+div.row.text-center, div.container-fluid {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.col-md-4 {
+    padding: 1rem;
+    border: 1px solid #fff;
+}
+
+.container img {
+    width: 100%;
+}
+
+div.col-md-2 {
+    padding: 0;
+}
+
+section {
+    margin-bottom: 6%;
+}
